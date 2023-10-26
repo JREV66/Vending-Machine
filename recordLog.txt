@@ -1,0 +1,39 @@
+07-29-2023 15:05:40 - User added money. Current balance: $20.0
+07-29-2023 15:05:42 - User added money. Current balance: $30.0
+07-29-2023 15:05:49 - Purchased: Ginger Ayle! Glug Glug, Yum!. Current balance: $28.15
+07-29-2023 15:05:53 - Purchased: Popcorn! Crunch Crunch, Yum!. Current balance: $27.40
+07-29-2023 15:05:56 - User finished transaction. Change balance: $27.40
+07-29-2023 15:05:58 - User exited the application.
+07-29-2023 15:16:03 - User added money. Current balance: $10.0
+07-29-2023 15:16:08 - User added money. Current balance: $15.0
+07-29-2023 15:16:13 - Purchased: Popcorn! Crunch Crunch, Yum!Current balance: $13.25
+07-29-2023 15:16:17 - User finished transaction. Change balance: $13.25
+07-29-2023 15:16:20 - User exited the application.
+07-29-2023 15:17:03 - User added money. Current balance: $5.0
+07-29-2023 15:17:09 - Purchased: 7Down! Glug Glug, Yum!Current balance: $1.75
+07-29-2023 15:17:11 - User finished transaction. Change balance: $1.75
+07-29-2023 15:17:13 - User exited the application.
+07-29-2023 15:27:55 PM - User added money. Current balance: $20.0
+07-29-2023 15:28:02 PM - Purchased: Popcorn! Crunch Crunch, Yum!Current balance: $18.25
+07-29-2023 15:28:05 PM - User finished transaction. Change balance: $18.25
+07-29-2023 15:28:08 PM - User exited the application.
+07-29-2023 03:28:43 PM - User added money. Current balance: $10.0
+07-29-2023 03:28:48 PM - Purchased: Teaberry! Chew Chew, Yum!Current balance: $8.35
+07-29-2023 03:28:50 PM - User finished transaction. Change balance: $8.35
+07-29-2023 03:28:51 PM - User exited the application.
+07-29-2023 03:33:45 PM - User added money. Current balance: $10.0
+07-29-2023 03:33:49 PM - Purchased: 7Down! Glug Glug, Yum! Current balance: $ 6.75
+07-29-2023 03:33:50 PM - User finished transaction. Change balance: $6.75
+07-29-2023 03:33:51 PM - User exited the application.
+07/30/2023 10:23:56 AM - User added money. Current balance: $5.0
+07/30/2023 10:24:01 AM - Purchased: Moonpie! Yummy Yummy, So Sweet! Current balance: $ 2.05
+07/30/2023 10:24:08 AM - User finished transaction. Change balance: $2.05
+07/30/2023 10:24:12 AM - User exited the application.
+07/30/2023 03:46:46 PM - User added money. Current balance: $10.0
+07/30/2023 03:46:51 PM - Purchased: main.csvCurrent balance: $ 8.25
+07/30/2023 03:46:53 PM - User finished transaction. Change balance: $8.25
+07/30/2023 03:46:58 PM - User exited the application.
+10/26/2023 02:33:52 PM - User added money. Current balance: $10.0
+10/26/2023 02:34:09 PM - Purchased: 7Down! Glug Glug, Yum! Current balance: $ 6.75
+10/26/2023 02:34:13 PM - User finished transaction. Change balance: $6.75
+10/26/2023 02:34:18 PM - User exited the application.
